@@ -1,2 +1,2 @@
 # SeahouseS
-this is my java project seahouse spring SSM
+this is my java project with spring SSM
